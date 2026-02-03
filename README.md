@@ -1,10 +1,11 @@
 
-<HTML>
-  <TITLE>MY GITHUB  PAGE</TITLE>
-  <HEAD>
-    <BODY>
-      <h1> welcome to 3csm-svcet website</h1>
-      <p>this site is hosted on github page</p>
-    </BODY>
-  </HEAD>
-</HTML>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub Web Page</h1>
+    <p>This is a simple example of a webpage hosted on GitHub Pages.</p>
+</body>
+</html>
